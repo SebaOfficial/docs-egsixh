@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-vo0lqb.jambul126.online/sitemap.xml
